@@ -1,0 +1,28 @@
+{
+  "name": "example-s3server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delwar2016/example-s3server.git"
+  },
+  "keywords": [
+    "amazon",
+    "s3",
+    "nodejs"
+  ],
+  "author": "Md. Delwar Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delwar2016/example-s3server/issues"
+  },
+  "homepage": "https://github.com/delwar2016/example-s3server#readme",
+  "dependencies": {
+    "aws-sdk": "^2.7.15",
+    "node-uuid": "^1.4.7"
+  }
+}
